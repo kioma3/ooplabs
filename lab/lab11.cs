@@ -18,7 +18,7 @@ namespace lab
             lab16.Sixth();
             lab17.Seventh();
             lab18.Eights();
-        }
+        } 
 
         public static void FisrtTask() 
         {
